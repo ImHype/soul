@@ -19,7 +19,7 @@ class Stack:
 
 def divideBy2(decNumber):
     if (decNumber < 0):
-        return '-' + divideBy2(decNumber);
+        return '-' + divideBy2(decNumber)
 
     remstack = Stack()
 
@@ -34,4 +34,4 @@ def divideBy2(decNumber):
 
     return binString
 
-print(divideBy2(123))
+print(divideBy2(127))
