@@ -1,4 +1,4 @@
-# Day-Day-Algorithm
+# soul
 > 日常积累算法
 
 ## 数据结构与算法
